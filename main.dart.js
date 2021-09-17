@@ -59024,7 +59024,7 @@ b4(){this.bG()
 this.my()},
 a0(a,b){var s,r,q,p,o=this,n=null,m=t.R,l=H.a([new T.ei(C.by,T.WP(H.a([T.a7J(R.t_(!1,!0,T.iD(U.a8o("assets/randgallery.png"),32,32),n,!0,n,n,n,n,n,n,n,n,n,new E.a2p(o),n,n,n)),C.v9,T.a7J(R.t_(!1,!0,T.iD(U.a8o("assets/ab2.png"),32,32),n,!0,n,n,n,n,n,n,n,n,n,new E.a2q(o),n,n,n)),C.v9,T.a7J(R.t_(!1,!0,T.iD(U.a8o("assets/twitter_logo.png"),32,32),n,!0,n,n,n,n,n,n,n,n,n,new E.a2r(o),n,n,n)),C.GG],m),C.cJ,C.c4,C.d_),n)],m),k=T.WP(H.a([D.rq(C.Km,new E.a2s(o),D.nl(n,n,n,n,n,n,n,n,n,n,n,C.zb,n,n,n,n,n,n,n)),C.ck,D.rq(C.Kn,new E.a2t(o),D.nl(n,n,n,n,n,n,n,n,n,n,n,C.jm,n,n,n,n,n,n,n)),C.ck,D.rq(C.Ko,new E.a2u(o),D.nl(n,n,n,n,n,n,n,n,n,n,n,C.zl,n,n,n,n,n,n,n)),C.ck,D.rq(C.Kk,new E.a2v(o),D.nl(n,n,n,n,n,n,n,n,n,n,n,C.zA,n,n,n,n,n,n,n)),C.ck,D.rq(C.Kl,new E.a2w(o),D.nl(n,n,n,n,n,n,n,n,n,n,n,C.zh,n,n,n,n,n,n,n)),C.ck,D.rq(C.Kj,new E.a2x(o),D.nl(n,n,n,n,n,n,n,n,n,n,n,C.p,n,n,n,n,n,C.J7,n)),C.ck],m),C.cJ,C.oV,C.d_)
 k=T.Oe(new E.Es(C.o,!1,k,n),n,n)
-s=O.Xx("PixelTraits Count: "+C.f.i(o.d.length),C.JK)
+s=O.Xx("Pixeltraits Count: "+C.f.i(o.d.length),C.JK)
 if(o.d.length!==0){r=t.w
 q=b.a6(r).f
 r=b.a6(r).f
