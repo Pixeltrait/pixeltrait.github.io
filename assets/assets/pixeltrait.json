@@ -446,5 +446,152 @@
         "unit_name": "PIXL#070",
         "imageURL": "https://ipfs.io/ipfs/bafkreignqpoyyt2i6kg7ogahrethpweootdqxosumkiuln5jnxw4d4lb3i",
         "background": "purple"
+    },
+    {
+        "asset_id": 345653455,
+        "asset_name": "Pixeltrait Special Edition #004",
+        "unit_name": "PIXLSE04",
+        "imageURL": "https://ipfs.io/ipfs/bafkreignngzoz735idjbpqv3r5olog56qoh56ddgtcsnydn67gmdo2fuvu",
+        "background": "Special Editions"
+    },
+    {
+        "asset_id": 350840539,
+        "asset_name": "Pixeltrait #71",
+        "unit_name": "PIXL#071",
+        "imageURL": "https://ipfs.io/ipfs/bafkreihl6ohyl5pkgmopdo5eqk7v3vnb25bsttmfhtiemgf22l35wxluuq",
+        "background": "grey"
+    },
+    {
+        "asset_id": 350841770,
+        "asset_name": "Pixeltrait #72",
+        "unit_name": "PIXL#072",
+        "imageURL": "https://ipfs.io/ipfs/bafkreif4smq5ct4te424rwl4533ow33xix2h4arcq7ihfr2z6hnesyfeea",
+        "background": "grey"
+    },
+    {
+        "asset_id": 350847694,
+        "asset_name": "Pixeltrait #73",
+        "unit_name": "PIXL#073",
+        "imageURL": "https://ipfs.io/ipfs/bafkreienezdrnoqrwshiq6nt3l6nxx3hu75npyq66ifwnwqentxkd3zut4",
+        "background": "grey"
+    },
+    {
+        "asset_id": 350850949,
+        "asset_name": "Pixeltrait #74",
+        "unit_name": "PIXL#074",
+        "imageURL": "https://ipfs.io/ipfs/bafkreia4pnpxbtb24lqp4su7bjteyreerg4qv2i4r4tuuiepeaejaw6uxy",
+        "background": "grey"
+    },
+    {
+        "asset_id": 350860919,
+        "asset_name": "Pixeltrait #75",
+        "unit_name": "PIXL#075",
+        "imageURL": "https://ipfs.io/ipfs/bafkreifzaydo4c4d7ni5at3f64wxpdsp2selj4az5eggzfbjyxmorvf6we",
+        "background": "green"
+    },
+    {
+        "asset_id": 350886974,
+        "asset_name": "Pixeltrait #76",
+        "unit_name": "PIXL#076",
+        "imageURL": "https://ipfs.io/ipfs/bafkreih3iig6dcpma52pur63h6lh5dwlagrh4vupstdsj6mxbjhfivaiaq",
+        "background": "green"
+    },
+    {
+        "asset_id": 350897453,
+        "asset_name": "Pixeltrait #77",
+        "unit_name": "PIXL#077",
+        "imageURL": "https://ipfs.io/ipfs/bafkreih6ktfflxiep57ipjwbpkl7h6mhpvh2d33zkpqn6fx74asch3gbfi",
+        "background": "green"
+    },
+    {
+        "asset_id": 350898611,
+        "asset_name": "Pixeltrait #78",
+        "unit_name": "PIXL#078",
+        "imageURL": "https://ipfs.io/ipfs/bafkreidfbbc24tadqlhk2zysb24j2ihhtvmaxec376mzkw76dleki47joa",
+        "background": "orange"
+    },
+    {
+        "asset_id": 350938376,
+        "asset_name": "Pixeltrait #79",
+        "unit_name": "PIXL#079",
+        "imageURL": "https://ipfs.io/ipfs/bafkreigv2ixdtlwzpcfmorkblm6l4l3hbcmc5z7zo2ivjac76dok7ckdre",
+        "background": "orange"
+    },
+    {
+        "asset_id": 350941725,
+        "asset_name": "Pixeltrait #80",
+        "unit_name": "PIXL#080",
+        "imageURL": "https://ipfs.io/ipfs/bafkreihftb3cnj2bc2myb2msl3hr3iskuybjniggxwiwcl4ghmcax264bi",
+        "background": "purple"
+    },
+    {
+        "asset_id": 350943671,
+        "asset_name": "Pixeltrait #81",
+        "unit_name": "PIXL#081",
+        "imageURL": "https://ipfs.io/ipfs/bafkreidebifxtblkziczxsyzbhuzv3jnu3aa4ysbye24ioglcwxtu6235u",
+        "background": "grey"
+    },
+    {
+        "asset_id": 350947972,
+        "asset_name": "Pixeltrait #82",
+        "unit_name": "PIXL#082",
+        "imageURL": "https://ipfs.io/ipfs/bafkreieoshidxnkofslwi3nayhygxfpdv3a6fm63suzdkusm7uusosvnyi",
+        "background": "grey"
+    },
+    {
+        "asset_id": 350952158,
+        "asset_name": "Pixeltrait #83",
+        "unit_name": "PIXL#083",
+        "imageURL": "https://ipfs.io/ipfs/bafkreiccmy524hxxnu4qwgzjlqt5raz4fhplc7epnbuzhd2cvteq6fbcbq",
+        "background": "grey"
+    },
+    {
+        "asset_id": 350955398,
+        "asset_name": "Pixeltrait #84",
+        "unit_name": "PIXL#084",
+        "imageURL": "https://ipfs.io/ipfs/bafkreigyro6qdnf6s5fk54m6eymcgqotvu6or2d7hdjrp33intxrgo7xv4",
+        "background": "grey"
+    },
+    {
+        "asset_id": 350958737,
+        "asset_name": "Pixeltrait #85",
+        "unit_name": "PIXL#085",
+        "imageURL": "https://ipfs.io/ipfs/bafkreiezj5phll52wkexqrdhvbid4vj7qxwchgpus36tesxb7xoevocerq",
+        "background": "green"
+    },
+    {
+        "asset_id": 350963014,
+        "asset_name": "Pixeltrait #86",
+        "unit_name": "PIXL#086",
+        "imageURL": "https://ipfs.io/ipfs/bafkreiex2aknlnoaanrmkdeu6z7lof6qh7iiocepd47w77qhp7sehvar6q",
+        "background": "green"
+    },
+    {
+        "asset_id": 350965800,
+        "asset_name": "Pixeltrait #87",
+        "unit_name": "PIXL#087",
+        "imageURL": "https://ipfs.io/ipfs/bafkreig55mi6bp5mzfej63uhbpiyvjbf4mqefni6b7vmly4sxdyojf4jsa",
+        "background": "green"
+    },
+    {
+        "asset_id": 350967555,
+        "asset_name": "Pixeltrait #88",
+        "unit_name": "PIXL#088",
+        "imageURL": "https://ipfs.io/ipfs/bafkreicviw52dnp7clskyrxknsgjv5keggw6kkymghijnjx7sbe73yx4ty",
+        "background": "orange"
+    },
+    {
+        "asset_id": 350973293,
+        "asset_name": "Pixeltrait #89",
+        "unit_name": "PIXL#089",
+        "imageURL": "https://ipfs.io/ipfs/bafkreib3p6sleiekywo3h2ryepq2zzjokamwbewhsl2tdbxicpowad6qke",
+        "background": "orange"
+    },
+    {
+        "asset_id": 350975655,
+        "asset_name": "Pixeltrait #90",
+        "unit_name": "PIXL#090",
+        "imageURL": "https://ipfs.io/ipfs/bafkreihednq6mmndo7o3ow4nswkwvf4it3eia4wobwhfonrviztobbkfde",
+        "background": "purple"
     }
 ]
