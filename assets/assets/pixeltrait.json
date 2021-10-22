@@ -1,5 +1,12 @@
 [
     {
+        "asset_id": 362242873,
+        "asset_name": "Pixeltrait #08",
+        "unit_name": "PIXL#008",
+        "imageURL": "https://ipfs.io/ipfs/bafkreiczxuuvyfxoxwlsi4wwd3qqcyw27ohac6tjilmsa2rmluupsz2pqu",
+        "background": "yellow"
+    },
+    {
         "asset_id": 301618604,
         "asset_name": "Pixeltrait #11",
         "unit_name": "PIXL#011",
@@ -663,12 +670,5 @@
         "unit_name": "PIXL#100",
         "imageURL": "https://ipfs.io/ipfs/bafkreifevarfomkzxe22ed5sfrdmhemsvibpalzlnojrqoi3qdab3z65be",
         "background": "purple"
-    },
-    {
-        "asset_id": 362242873,
-        "asset_name": "Pixeltrait #08",
-        "unit_name": "PIXL#008",
-        "imageURL": "https://ipfs.io/ipfs/bafkreiczxuuvyfxoxwlsi4wwd3qqcyw27ohac6tjilmsa2rmluupsz2pqu",
-        "background": "yellow"
     }
 ]
